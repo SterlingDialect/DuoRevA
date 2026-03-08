@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPS706")(type "KiCad")(uri "${KIPRJMOD}/DUO Library/ul_TPS70612DBVR/KiCADv6/2025-12-28_05-55-18.kicad_sym")(options "")(descr ""))
+  (lib (name "BQ51050BRHLR")(type "KiCad")(uri "${KIPRJMOD}/DUO Library/ul_BQ51050BRHLR/KiCADv6/2025-12-27_05-06-54.kicad_sym")(options "")(descr ""))
+  (lib (name "CPI-1762-90-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/DUO Library/CPI-1762-90-SMT-TR/CPI-1762-90-SMT-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "EAST1616RGBB2")(type "KiCad")(uri "${KIPRJMOD}/DUO Library/ul_EAST1616RGBB2/KiCADv6/2026-01-28_01-13-02.kicad_sym")(options "")(descr ""))
+  (lib (name "CPT-9019A-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/DUO Library/ul_CPT-9019A-SMT-TR/KiCADv6/2026-02-12_03-13-09.kicad_sym")(options "")(descr ""))
+  (lib (name "3269W-1-103LF potentionemeter")(type "KiCad")(uri "${KIPRJMOD}/DUO Library/ul_3296W-1-103LF/KiCADv6/2026-02-12_03-10-40.kicad_sym")(options "")(descr ""))
+  (lib (name "PKMCS1818E20A0-R1")(type "KiCad")(uri "${KIPRJMOD}/DUO Library/ul_PKMCS1818E20A0-R1/KiCADv6/2026-02-12_04-19-44.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS92201A")(type "KiCad")(uri "${KIPRJMOD}/DUO Library/ul_TPS92201ADRLR/KiCADv6/2026-02-27_23-11-43.kicad_sym")(options "")(descr ""))
+)
